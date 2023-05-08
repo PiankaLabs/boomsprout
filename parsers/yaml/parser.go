@@ -16,10 +16,10 @@
 
 package plugin
 
-import "github.com/PiankaLabs/boomsprout/pipeline"
+import "github.com/PiankaLabs/boomsprout/framework"
 
 type Parser struct {
-	pipeline.Parser
+	framework.Parser
 }
 
 func (parser Parser) Parse(input string) {
