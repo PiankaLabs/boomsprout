@@ -16,7 +16,7 @@
 
 package pipeline
 
-import "boomsprout/pkg/model"
+import "github.com/PiankaLabs/boomsprout/model"
 
 type Parser interface {
 	Parse(input string) model.Domain
