@@ -16,7 +16,7 @@
 
 package plugin
 
-import "boomsprout/pkg/pipeline"
+import "github.com/PiankaLabs/boomsprout/pipeline"
 
 type Parser struct {
 	pipeline.Parser

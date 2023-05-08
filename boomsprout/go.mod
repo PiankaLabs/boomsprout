@@ -1,1 +1,1 @@
-module github.com/PiankaLabs/boomsprout
+module github.com/PiankaLabs/boomsprout/boomsprout
