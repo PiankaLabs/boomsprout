@@ -1,0 +1,1 @@
+module boomsprout.parsers.yaml
